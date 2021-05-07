@@ -1,0 +1,17 @@
+.Order {
+  width: 80%;
+  border: 1px solid whitesmoke;
+  border-radius: 15px;
+  box-shadow: 2px 3px 2px lightgray;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+/* .Order .list {
+  list-style: none;
+  display: inline-block;
+  text-transform: capitalize;
+  border: 1px solid lightblue;
+  padding: 5px;
+  margin: 0 8px;
+} */
