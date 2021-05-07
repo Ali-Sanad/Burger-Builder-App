@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Burger Builder App
+#with react hooks + redux js + css modules and firebase 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
